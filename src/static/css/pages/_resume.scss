@@ -85,6 +85,7 @@
 .degree-container {
 	h4 {
 		font-weight: normal;
+		text-align: center;
 	}
 
 	.degree {
@@ -92,12 +93,14 @@
 		text-transform: none;
 		letter-spacing: 0.16em;
 		font-size: .8em;
+		text-align: center;
 	}
 
 	.school {
 		text-transform: none;
+		text-align: center;
 		padding-top: 0.3em;
-		margin-bottom: 1em;
+		margin-bottom: 5em;
 	}
 }
 

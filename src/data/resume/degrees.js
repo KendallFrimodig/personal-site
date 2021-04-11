@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Grand Valley State University',
+    degree: 'Masters in Public Health, Epidemiology',
+    link: 'https://gvsu.edu',
+    year: 2018,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Grand Valley State University',
+    degree: 'B.S. Biomedical Sciences, Minor in Chemisty',
+    link: 'https://gvsu.edu',
+    year: 2016,
   },
 ];
 
