@@ -1,7 +1,7 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: '',
+    title: 'ecological niche modeling of west nile virus transmission potential',
     subtitle: '',
     image: '',
     date: '',
