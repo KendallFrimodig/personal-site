@@ -14,7 +14,7 @@ const positions = [
   {
     company: 'Tacoma-Pierce County Health Department',
     position: 'Epidemiologst',
-    link: 'https://tpchd.org',
+    link: 'https://www.tpchd.org/',
     daterange: 'January 2019 - March 2020',
     points: [
       'aggregated diparitly formatted data for death, birth, and hospitalizations across years',
