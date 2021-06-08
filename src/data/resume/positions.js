@@ -29,7 +29,7 @@ const positions = [
   {
     company: 'Desmond Tutu HIV Foundation',
     position: 'Data Analyst',
-    link: 'https://.org',
+    link: 'https://desmondtutuhealthfoundation.org.za',
     daterange: 'May 2018 - August 2018',
     points: [
       'developed a program which re-coded, formatted, and cleaned a base survey data-set focused on HIV medication preferences and stigmas for key populations',
@@ -39,7 +39,7 @@ const positions = [
   {
     company: 'Kent County Health Department',
     position: 'Surveillance Intern',
-    link: 'https://.org',
+    link: 'https://www.accesskent.com/Health',
     daterange: 'May 2018 - August 2018',
     points: [
       'conduced fieldwork for the collection and analyses of key mosquito species',
@@ -53,7 +53,7 @@ const positions = [
   {
     company: 'Cannonsburg Ski Area',
     position: 'Snow-Sports Director',
-    link: '',
+    link: 'https://cannonsburg.com/',
     daterange: 'August 2017 - January 2019',
     points: [
       'following 5 seasons of instructing, I spent two seasons directing the snow-sports program',
@@ -67,7 +67,7 @@ const positions = [
   {
     company: 'Gravel Bottom Brewery',
     position: 'Server',
-    link: 'Grand Rapids, MI',
+    link: 'https://gravelbottom.com/',
     daterange: 'Fall 2018',
     points: [
     ],
@@ -75,7 +75,7 @@ const positions = [
   {
     company: 'Blue Lake Fine Arts Camp',
     position: 'International Counselor',
-    link: '',
+    link: 'https://bluelake.org/international/',
     daterange: 'Summer 2016',
     points: [
     ],
@@ -83,7 +83,7 @@ const positions = [
   {
     company: 'Breckenridge Resort',
     position: 'Ski Instructor',
-    link: '',
+    link: 'https://www.breckenridge.com/plan-your-trip/ski-and-ride-lessons.aspx',
     daterange: 'Winter 2016',
     points: [
     ],
@@ -91,7 +91,7 @@ const positions = [
   {
     company: 'Science Success Center',
     position: 'Chemistry and Physics Tutor',
-    link: '',
+    link: 'https://www.gvsu.edu/chem/chemistry-success-center-119.htm',
     daterange: 'Fall 2013 - Fall 2015',
     points: [
     ],
@@ -99,7 +99,7 @@ const positions = [
   {
     company: 'Camp Laurel South',
     position: 'Counselor',
-    link: '',
+    link: 'https://www.camplaurelsouth.com/',
     daterange: 'Summer 2015',
     points: [
     ],
@@ -107,7 +107,7 @@ const positions = [
   {
     company: 'Blue Lake Fine Arts Camp',
     position: 'Counselor',
-    link: '',
+    link: 'https://bluelake.org/',
     daterange: 'Summer 2014',
     points: [
     ],
@@ -115,7 +115,7 @@ const positions = [
   {
     company: 'Cannonsburg Ski Area',
     position: 'Ski Instructor',
-    link: '',
+    link: 'https://cannonsburg.com/',
     daterange: 'Winter 2012-2017',
     points: [
     ],
@@ -123,7 +123,7 @@ const positions = [
   {
     company: 'Boones Long Lake Inn',
     position: 'Server Assisstant',
-    link: '',
+    link: 'http://booneslli.com/',
     daterange: 'Summer 2013',
     points: [
     ],
@@ -131,7 +131,7 @@ const positions = [
   {
     company: 'Meijer',
     position: 'Cart Pusher',
-    link: '',
+    link: 'https://www.meijer.com/',
     daterange: 'Summer 2012',
     points: [
     ],
