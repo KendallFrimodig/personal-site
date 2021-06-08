@@ -13,6 +13,11 @@ const skills = [
     category: ['Web Development', 'Javascript'],
   },
   {
+    title: 'Javascript',
+    competency: 2,
+    category: ['Web Development', 'Javascript'],
+  },
+  {
     title: 'Bash',
     competency: 3,
     category: ['Tools', 'Languages'],
