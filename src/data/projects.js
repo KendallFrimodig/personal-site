@@ -22,7 +22,7 @@ const data = [
   },
   {
     title: 'health equity maps',
-    subtitle: '',
+    link: 'https://www.tpchd.org/healthy-people/health-equity/health-equity-maps',
     image: '/images/projects/tacoma.PNG',
     date: '2020-01',
     desc:
@@ -43,7 +43,7 @@ const data = [
   },
   {
     title: 'ecological niche modeling of west nile virus transmission potential',
-    subtitle: '',
+    link: 'https://photos.app.goo.gl/Ar15ekaHN9bMzdmr5',
     image: '/images/projects/wnv.jpg',
     date: '2017-08',
     desc:
