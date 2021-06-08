@@ -1,7 +1,7 @@
 const positions = [
   {
     company: 'New Mexico Department of Health',
-    position: 'GIS Epidemiologst',
+    position: 'GIS Epidemiologist',
     link: 'https://nmhealth.org',
     daterange: 'April 2020 - Present',
     points: [
@@ -13,7 +13,7 @@ const positions = [
   },
   {
     company: 'Tacoma-Pierce County Health Department',
-    position: 'Epidemiologst',
+    position: 'Epidemiologist',
     link: 'https://www.tpchd.org/',
     daterange: 'January 2019 - March 2020',
     points: [
