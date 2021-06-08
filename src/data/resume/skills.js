@@ -18,17 +18,22 @@ const skills = [
     category: ['Tools', 'Languages'],
   },
   {
-    title: 'D3',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
     title: 'Jupyter',
     competency: 3,
     category: ['Data Science', 'Python'],
   },
   {
-    title: 'HTML + SASS/SCSS/CSS',
+    title: 'SQL',
+    competency: 3,
+    category: ['Data Science', 'Languages'],
+  },
+  {
+    title: 'SAS',
+    competency: 5,
+    category: ['Languages'],
+  },
+  {
+    title: 'HTML + CSS',
     competency: 3,
     category: ['Web Development', 'Languages'],
   },
@@ -38,6 +43,36 @@ const skills = [
     category: ['Languages', 'Python'],
   },
   {
+    title: 'Linux',
+    competency: 3,
+    category: ['Tools'],
+  },
+  {
+    title: 'ArcGIS',
+    competency: 5,
+    category: ['GIS'],
+  },
+  {
+    title: 'QGIS',
+    competency: 3,
+    category: ['GIS'],
+  },
+  {
+    title: 'Leaflet',
+    competency: 3,
+    category: ['GIS'],
+  },
+  {
+    title: 'Remote Sensing',
+    competency: 4,
+    category: ['GIS'],
+  },
+  {
+    title: 'Git',
+    competency: 3,
+    category: ['Tools'],
+  },
+  {
     title: 'C++',
     competency: 1,
     category: ['Languages'],
@@ -45,11 +80,11 @@ const skills = [
   {
     title: 'R',
     competency: 4,
-    category: ['Languages'],
+    category: ['Languages', 'Data Science'],
   },
   {
     title: 'Data Visualization',
-    competency: 3,
+    competency: 4,
     category: ['Data Science', 'Javascript'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
