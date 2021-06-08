@@ -12,13 +12,23 @@ const data = [
   },
   {
     title: 'superfund and toxic release inventory map',
-    subtitle: '',
+    link: 'https://kendallfrimodig.github.io/superfund_map/#7/34.214/-106.026',
     image: '/images/projects/superfund.PNG',
     date: '2021-02',
     desc:
       'sourced and aggregated data related to environmental hazards '
       + 'and developed an interactive map indicating relative risk '
       + 'of current toxic releases and historical superfund sites, ',
+  },
+  {
+    title: 'address standardization program',
+    link: 'https://kendallfrimodig.github.io/address_cleaning/',
+    image: '/images/projects/add.PNG',
+    date: '2020-06',
+    desc:
+      'wrote an R program to circumnavigate manual '
+      + 'editing of address information neccesary '
+      + 'for successful geocoding in GIS software ',
   },
   {
     title: 'health equity maps',
