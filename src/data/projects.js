@@ -2,7 +2,7 @@
 const data = [
   {
     title: 'climate vulnerability assessment',
-    subtitle: '',
+    link: 'https://kendallfrimodig.github.io/climate_vulnerability_viz/',
     image: '/images/projects/beeswarm.PNG',
     date: '2021-05',
     desc:
@@ -42,7 +42,7 @@ const data = [
   },
   {
     title: 'HIV PrEP Survey Analysis',
-    subtitle: '',
+    link: 'https://kendallfrimodig.github.io/survey_analysis/',
     image: '/images/projects/tutu.PNG',
     date: '2018-07',
     desc:
