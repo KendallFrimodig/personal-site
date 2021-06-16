@@ -32,13 +32,6 @@ const data = [
       '',
   },
   {
-    key: 'phish',
-    label: 'Phish Shows Attended',
-    value: 8,
-    link:
-      '',
-  },
-  {
     key: 'location',
     label: 'Current city',
     value: 'Santa Fe, NM',
