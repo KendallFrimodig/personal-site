@@ -73,8 +73,25 @@ class Skills extends Component {
         <div className="link-to" id="skills" />
         <div className="title">
           <h3>Skills</h3>
-          <p>Note: I think these sections are silly, but everyone seems to have one.
-            Here is a *mostly* honest overview of my skills.
+          <p>Note:
+            Here is a *mostly* honest overview of my skills. Based on
+            my experiences, i have estimated the time investment likely needed
+            for skills, should they be required for a role
+          </p>
+          <p>
+            5: ask me to do just about anything
+          </p>
+          <p>
+            4: occasional google aid, a few days to learn new packages / syntax
+          </p>
+          <p>
+            3: likely 3 months of development to operate at above levels
+          </p>
+          <p>
+            2: 6 months self study, 3 months focused study
+          </p>
+          <p>
+            1: a year of self study, 6 months focused study
           </p>
         </div>
         <div className="skill-button-container">

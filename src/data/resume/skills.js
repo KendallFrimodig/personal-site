@@ -39,7 +39,7 @@ const skills = [
   },
   {
     title: 'HTML + CSS',
-    competency: 3,
+    competency: 2,
     category: ['Web Development', 'Languages'],
   },
   {
