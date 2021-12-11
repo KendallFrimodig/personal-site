@@ -1,6 +1,16 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Forking my Career',
+    link: 'https://kendallfrimodig.github.io/forking_my_career/',
+    image: '/images/projects/ga-logo-gear.PNG',
+    date: '2021-0',
+    desc:
+      'first post for what will eventually be a seperate blog section '
+      + 'on this site, outlining my recent decision to enroll in  '
+      + 'General Assemblys Data Science Immersive bootcamp ',
+  },
+  {
     title: 'climate vulnerability assessment',
     link: 'https://kendallfrimodig.github.io/climate_vulnerability_viz/',
     image: '/images/projects/beeswarm.PNG',
