@@ -1,10 +1,20 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Address Parsing: Python Vs. R',
+    link: 'https://kendallfrimodig.github.io/blog-1-14-21/',
+    image: '/images/projects/add.PNG',
+    date: '2022-01',
+    desc:
+      'Comparison of R and Python for address parsing '
+      + 'and standardization neccesary '
+      + 'for successful geocoding in GIS software or APIs ',
+  },
+  {
     title: 'Forking my Career',
     link: 'https://kendallfrimodig.github.io/forking_my_career/',
     image: '/images/projects/ga-logo-gear.PNG',
-    date: '2021-0',
+    date: '2022-01',
     desc:
       'first post for what will eventually be a seperate blog section '
       + 'on this site, outlining my recent decision to enroll in  '
@@ -29,16 +39,6 @@ const data = [
       'sourced and aggregated data related to environmental hazards '
       + 'and developed an interactive map indicating relative risk '
       + 'of current toxic releases and historical superfund sites, ',
-  },
-  {
-    title: 'address standardization program',
-    link: 'https://kendallfrimodig.github.io/address_cleaning/',
-    image: '/images/projects/add.PNG',
-    date: '2020-06',
-    desc:
-      'wrote an R program to circumnavigate manual '
-      + 'editing of address information neccesary '
-      + 'for successful geocoding in GIS software ',
   },
   {
     title: 'health equity maps',
