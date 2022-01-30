@@ -1,26 +1,6 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Address Parsing: Python Vs. R',
-    link: 'https://kendallfrimodig.github.io/blog-1-14-21/',
-    image: '/images/projects/add.PNG',
-    date: '2022-01',
-    desc:
-      'Comparison of R and Python for address parsing '
-      + 'and standardization neccesary '
-      + 'for successful geocoding in GIS software or APIs ',
-  },
-  {
-    title: 'Forking my Career',
-    link: 'https://kendallfrimodig.github.io/forking_my_career/',
-    image: '/images/projects/ga-logo-gear.PNG',
-    date: '2022-01',
-    desc:
-      'first post for what will eventually be a seperate blog section '
-      + 'on this site, outlining my recent decision to enroll in  '
-      + 'General Assemblys Data Science Immersive bootcamp ',
-  },
-  {
     title: 'climate vulnerability assessment',
     link: 'https://kendallfrimodig.github.io/climate_vulnerability_viz/',
     image: '/images/projects/beeswarm.PNG',
@@ -73,7 +53,6 @@ const data = [
       + 'utilizing historical infection and ecological parameters specific  '
       + 'to the local species',
   },
-
 ];
 
 export default data;

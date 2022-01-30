@@ -4,7 +4,7 @@
 const skills = [
   {
     title: 'Node.JS',
-    competency: 1,
+    competency: 2,
     category: ['Web Development', 'Javascript'],
   },
   {
@@ -24,12 +24,12 @@ const skills = [
   },
   {
     title: 'Jupyter',
-    competency: 2,
+    competency: 4,
     category: ['Data Science', 'Python'],
   },
   {
     title: 'SQL',
-    competency: 3,
+    competency: 4,
     category: ['Data Science', 'Languages'],
   },
   {
@@ -44,11 +44,11 @@ const skills = [
   },
   {
     title: 'Python',
-    competency: 1,
+    competency: 4,
     category: ['Languages', 'Python'],
   },
   {
-    title: 'Debian',
+    title: 'Linux',
     competency: 3,
     category: ['Tools'],
   },

@@ -1,4 +1,4 @@
-# prefer npm over yarn 
+# prefer npm over yarn
 yarn.lock
 
 # eslint
@@ -47,3 +47,9 @@ build/
 
 # Nohup
 nohup.out
+
+
+package-lock.json
+package.json
+.nvmrc
+.eslintrc

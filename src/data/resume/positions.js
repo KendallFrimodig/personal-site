@@ -3,7 +3,7 @@ const positions = [
     company: 'New Mexico Department of Health',
     position: 'GIS Epidemiologist',
     link: 'https://nmhealth.org',
-    daterange: 'April 2020 - Present',
+    daterange: 'April 2020 - December 2021',
     points: [
       'initially developed an R program that re-compiles messy address records and outputs clean data that enhances the match rate of geocoding.',
       'supported the COVID-19 response for much of 2020, conducting case investigations ',
@@ -47,7 +47,6 @@ const positions = [
       'conducted a geospatial analysis based upon West Nile infection clustering, and ecological factors',
       'develop a predictive spatial model outlining the intersection of humans and transmission prone regions',
       'provided the department with a detailed map which has informed the trap placements',
-      '',
     ],
   },
   {
@@ -61,7 +60,6 @@ const positions = [
       'refined the educational material and facilitated the training of instructors for the snow-sports school and youth program,',
       'served as the customer interface for several departments, and provided on-the-ground oversight and direction for operations',
       'worked directly with the owner to reduce inefficiencies, enhance the customer experience, and create a healthy work environment. ',
-      '',
     ],
   },
   {

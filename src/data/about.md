@@ -1,7 +1,9 @@
 
 # Currently
 
-living in santa fe, in my second year as an environmental tracking epidemiologist at the new mexico department of health. on the weekends you can find me backpacking or hiking 14r's in New Mexico & Colorado, or working on restoring my van (micro RV)
+living in denver, colorado, wrapping up a 3 month data-science bootcamp.
+on the weekends you can find me backpacking or hiking 14r's in New Mexico & Colorado,
+or working on restoring my van (micro RV)
 
 # Travel / Geography
 
