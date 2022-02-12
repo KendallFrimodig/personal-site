@@ -2,8 +2,8 @@
 const data = [
   {
     title: 'climate vulnerability assessment',
-    link: 'https://kendallfrimodig.github.io/climate_vulnerability_viz/',
-    image: '/images/projects/beeswarm.PNG',
+    link: 'https://kendallfrimodig.github.io/climate-vulnerability/',
+    image: '/images/projects/beeswarm.jpg',
     date: '2021-05',
     desc:
       'developed R code to visualize census tract groupings '
@@ -12,8 +12,8 @@ const data = [
   },
   {
     title: 'superfund and toxic release inventory map',
-    link: 'https://kendallfrimodig.github.io/superfund_map/#7/34.214/-106.026',
-    image: '/images/projects/superfund.PNG',
+    link: 'https://kendallfrimodig.github.io/superfund-emissions-map/#7/34.214/-106.026',
+    image: '/images/projects/superfund.jpg',
     date: '2021-02',
     desc:
       'sourced and aggregated data related to environmental hazards '
@@ -23,7 +23,7 @@ const data = [
   {
     title: 'health equity maps',
     link: 'https://www.tpchd.org/healthy-people/health-equity/health-equity-maps',
-    image: '/images/projects/tacoma.PNG',
+    image: '/images/projects/tacoma.jpg',
     date: '2020-01',
     desc:
       'crafted a set of custom basemaps for future GIS work '
@@ -32,8 +32,8 @@ const data = [
   },
   {
     title: 'HIV PrEP Survey Analysis',
-    link: 'https://kendallfrimodig.github.io/survey_analysis/',
-    image: '/images/projects/tutu.PNG',
+    link: 'https://kendallfrimodig.github.io/hiv-survey-analysis/',
+    image: '/images/projects/tutu.jpg',
     date: '2018-07',
     desc:
       'developed SAS code to clean, re-group, and enumerate '

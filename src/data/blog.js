@@ -1,9 +1,19 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Forecasting Energy Demand for Texas',
+    link: 'https://kendallfrimodig.github.io/energy-demand-forecasting/',
+    image: '/images/blog/EIA.jpg',
+    date: '2022-02',
+    desc:
+      'Team Project, assessing current forecasting for '
+      + 'Texas power grid, and building a reactive hour '
+      + 'ahead model',
+  },
+  {
     title: 'Where to start with your first GIS modeling project',
     link: 'https://kendallfrimodig.github.io/EO-lessons-learned/',
-    image: '/images/blog/EO.JPG',
+    image: '/images/blog/EO.jpg',
     date: '2022-02',
     desc:
       'A brief history of the last 6 years, '
@@ -13,7 +23,7 @@ const data = [
   {
     title: 'Address Parsing: Python Vs. R',
     link: 'https://kendallfrimodig.github.io/blog-1-14-21/',
-    image: '/images/blog/add.PNG',
+    image: '/images/blog/add.jpg',
     date: '2022-01',
     desc:
       'Comparison of R and Python for address parsing '
@@ -23,7 +33,7 @@ const data = [
   {
     title: 'Forking my Career',
     link: 'https://kendallfrimodig.github.io/forking_my_career/',
-    image: '/images/blog/ga-logo-gear.PNG',
+    image: '/images/blog/galogo.jpg',
     date: '2022-01',
     desc:
       'first post for what will eventually be a seperate blog section '
