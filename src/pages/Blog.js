@@ -1,29 +1,39 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import ReactMarkdown from 'react-markdown';
+import raw from 'raw.macro';
 
 import Main from '../layouts/Main';
 
-import Cell from '../components/Blog/Cell';
-import data from '../data/blog';
+// uses babel to load contents of file
+const markdown = raw('../data/blog.md');
+
+const count = markdown.split(/\s+/)
+  .map((s) => s.replace(/\W/g, ''))
+  .filter((s) => s.length).length;
+
+// Make all hrefs react router links
+const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
 const Blog = () => (
   <Main
     title="Blog"
-    description="Learn about Kendall Frimodigs's experiences."
+    description="My Thoughts"
   >
-    <article className="post" id="blog">
+    <article className="post markdown" id="blog">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/blog">Blog</Link></h2>
-          <h4 data-testid="heading"><Link to="/blog">click on each title for more</Link></h4>
+          <h2 data-testid="heading"><Link to="/blog">My Thoughts</Link></h2>
+          <p>(in about {count} words)</p>
         </div>
       </header>
-      {data.map((blog) => (
-        <Cell
-          data={blog}
-          key={blog.title}
-        />
-      ))}
+      <ReactMarkdown
+        source={markdown}
+        renderers={{
+          Link: LinkRenderer,
+        }}
+        escapeHtml={false}
+      />
     </article>
   </Main>
 );
