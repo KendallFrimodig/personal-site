@@ -19,11 +19,11 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>minimalist, epidemiologist, musician, outdoorsman & michigander in my third
-        year of a career in analytics. I am a MPH graduate, GVSU alumni, and
-        currently the environmental tracking epidemiologist
-        at <a href="https://www.nmhealth.org/"> new mexico department of health</a>. previously I was
-        at <a href="https://www.tpchd.org/"> tacoma-pierce county health department</a>
+      <p>I’m a data scientist and growth centered individual, driven to find solutions for complex questions and unravel nuance within data.
+        I recently completed a data science program, and before this I was
+        an environmental tracking & GIS epidemiologist
+        at <a href="https://www.nmhealth.org/"> new mexico department of health</a> &
+        <a href="https://www.tpchd.org/"> tacoma-pierce county health department</a>
         , and provided statistical and GIS support for
         <a href="https://desmondtutuhealthfoundation.org.za/"> the desmond tutu HIV foundation</a>
         and <a href="https://www.accesskent.com/Health/"> kent county health department</a>.
