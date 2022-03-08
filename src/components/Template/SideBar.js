@@ -19,7 +19,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>I’m a data scientist and growth centered individual, driven to find solutions for complex questions and unravel nuance within data.
+      <p>I’m a data scientist and growth centered individual, driven to find
+        solutions for complex questions and unravel nuance within data.
         I recently completed a data science program, and before this I was
         an environmental tracking & GIS epidemiologist
         at <a href="https://www.nmhealth.org/"> new mexico department of health</a> &
