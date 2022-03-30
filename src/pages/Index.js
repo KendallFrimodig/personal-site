@@ -20,7 +20,11 @@ const Index = () => (
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
+        <Link to="/blog">technical blog posts</Link>, {' '}
         or view <Link to="/stats">site statistics</Link>, {' '}
+      </p>
+      <p> A printable copy of my resume can be downloaded
+        <a href="https://drive.google.com/file/d/1XW8wrtKbnpgGmQ0YbpozqnVpS84D4wDr/view?usp=sharing">*here*</a>
       </p>
     </article>
   </Main>

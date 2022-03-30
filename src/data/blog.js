@@ -2,7 +2,7 @@
 const data = [
   {
     title: 'Forecasting Energy Demand for Texas',
-    link: 'https://kendallfrimodig.github.io/energy-demand-forecasting/',
+    link: 'https://kendallfrimodigblog.github.io/energy-demand-forecasting/',
     image: '/images/blog/EIA.jpg',
     date: '2022-02',
     desc:
@@ -12,7 +12,7 @@ const data = [
   },
   {
     title: 'Where to start with your first GIS modeling project',
-    link: 'https://kendallfrimodig.github.io/EO-lessons-learned/',
+    link: 'https://kendallfrimodigblog.github.io/gis-lessons-learned/',
     image: '/images/blog/EO.jpg',
     date: '2022-02',
     desc:
@@ -22,7 +22,7 @@ const data = [
   },
   {
     title: 'Address Parsing: Python Vs. R',
-    link: 'https://kendallfrimodig.github.io/blog-1-14-21/',
+    link: 'https://kendallfrimodigblog.github.io/address-parsing/',
     image: '/images/blog/add.jpg',
     date: '2022-01',
     desc:
@@ -32,7 +32,7 @@ const data = [
   },
   {
     title: 'Forking my Career',
-    link: 'https://kendallfrimodig.github.io/forking_my_career/',
+    link: 'https://kendallfrimodigblog.github.io/forking-my-career/',
     image: '/images/blog/galogo.jpg',
     date: '2022-01',
     desc:
