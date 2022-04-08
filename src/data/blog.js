@@ -2,7 +2,7 @@
 const data = [
   {
     title: 'Natural Language Analysis of Data Science Skills',
-    link: 'https://kendallfrimodigblog.github.io/nlp-data-science-jobs/',
+    link: 'https://kendallfrimodig.github.io/nlp-data-science-jobs/',
     image: '/images/blog/ds.png',
     date: '2022-04',
     desc:
