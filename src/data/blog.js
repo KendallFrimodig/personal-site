@@ -1,6 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Natural Language Analysis of Data Science Skills',
+    link: 'https://kendallfrimodigblog.github.io/nlp-data-science-jobs/',
+    image: '/images/blog/ds.png',
+    date: '2022-04',
+    desc:
+      'NLP analysis of skills sections for data science job '
+      + 'postings, via linkedin and glassdoor ',
+  },
+  {
     title: 'Forecasting Energy Demand for Texas',
     link: 'https://kendallfrimodigblog.github.io/energy-demand-forecasting/',
     image: '/images/blog/EIA.jpg',
