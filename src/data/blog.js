@@ -1,6 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Natural Language Analysis of Data Science Skills: Part 2',
+    link: 'https://kendallfrimodig.github.io/ngrams-data-science-jobs/',
+    image: '/images/blog/ds2.png',
+    date: '2022-04',
+    desc:
+      'NLP analysis of skills sections for data science job '
+      + 'postings, with n-gram analysis ',
+  },
+  {
     title: 'Natural Language Analysis of Data Science Skills',
     link: 'https://kendallfrimodig.github.io/nlp-data-science-jobs/',
     image: '/images/blog/ds.png',
