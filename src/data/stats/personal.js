@@ -34,7 +34,7 @@ const data = [
   {
     key: 'location',
     label: 'Current city',
-    value: 'Denver, CO',
+    value: 'Grand Rapids, MI',
   },
 ];
 

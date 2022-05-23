@@ -11,6 +11,27 @@ const data = [
       + 'ahead model',
   },
   {
+    title: 'demystifying camping on us public land',
+    link: 'https://github.com/kendallfrimodig/freedom-camping',
+    image: '/images/blog/capstone.jpg',
+    date: '2022-03',
+    desc:
+      'Developed a novel data engineering method to distill training imagery '
+      + 'and prepare for use in a regional convolutional neural network, '
+      + 'currently tuning model! ',
+
+  },
+  {
+    title: 'classification of political posts',
+    link: 'https://github.com/kendallfrimodig/reddit-nlp-modeling',
+    image: '/images/blog/reddit.jpg',
+    date: '2022-02',
+    desc:
+      'Scraped 200,000 posts from conservative and liberal subreddits. '
+      + 'Used natural language processing to analyze key words and bigrams for each, '
+      + 'tuned a model to predict new posts origin with an accuracy of 87% ',
+  },
+  {
     title: 'climate vulnerability assessment',
     link: 'https://kendallfrimodig.github.io/climate-vulnerability/',
     image: '/images/projects/beeswarm.jpg',
