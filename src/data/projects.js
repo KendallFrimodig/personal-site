@@ -1,6 +1,16 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'forecasting energy demand for texas',
+    link: 'https://kendallfrimodig.github.io/energy-demand-forecasting/',
+    image: '/images/blog/EIA.jpg',
+    date: '2022-04',
+    desc:
+      'team Project, assessing current forecasting for '
+      + 'texas power grid, and building a reactive hour '
+      + 'ahead model',
+  },
+  {
     title: 'climate vulnerability assessment',
     link: 'https://kendallfrimodig.github.io/climate-vulnerability/',
     image: '/images/projects/beeswarm.jpg',
@@ -31,7 +41,7 @@ const data = [
       + 'the health equity topic page ',
   },
   {
-    title: 'HIV PrEP Survey Analysis',
+    title: 'HIV PrEP survey analysis',
     link: 'https://kendallfrimodig.github.io/hiv-survey-analysis/',
     image: '/images/projects/tutu.jpg',
     date: '2018-07',

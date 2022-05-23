@@ -23,7 +23,7 @@ const SideBar = () => (
         solutions for complex questions and unravel nuance within data.
         I recently completed a data science program, and before this I was
         an environmental tracking & GIS epidemiologist
-        at <a href="https://www.nmhealth.org/"> new mexico department of health</a> &
+        at <a href="https://www.nmhealth.org/"> the new mexico department of health</a> &
         <a href="https://www.tpchd.org/"> tacoma-pierce county health department</a>
         , and provided statistical and GIS support for
         <a href="https://desmondtutuhealthfoundation.org.za/"> the desmond tutu HIV foundation</a>

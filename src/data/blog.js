@@ -19,16 +19,6 @@ const data = [
       + 'postings, via linkedin and glassdoor ',
   },
   {
-    title: 'Forecasting Energy Demand for Texas',
-    link: 'https://kendallfrimodigblog.github.io/energy-demand-forecasting/',
-    image: '/images/blog/EIA.jpg',
-    date: '2022-02',
-    desc:
-      'Team Project, assessing current forecasting for '
-      + 'Texas power grid, and building a reactive hour '
-      + 'ahead model',
-  },
-  {
     title: 'Where to start with your first GIS modeling project',
     link: 'https://kendallfrimodigblog.github.io/gis-lessons-learned/',
     image: '/images/blog/EO.jpg',

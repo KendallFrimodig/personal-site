@@ -12,7 +12,7 @@ const degrees = [
     ],
   },
   {
-    school: 'Grand Valley State University',
+    school: 'Grand Valley State University ',
     degree: 'Masters in Public Health, Epidemiology',
     link: 'https://gvsu.edu',
     year: 2018,

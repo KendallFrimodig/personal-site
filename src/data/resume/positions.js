@@ -71,7 +71,7 @@ const positions = [
     ],
   },
   {
-    company: 'Blue Lake Fine Arts Camp',
+    company: 'Blue Lake Fine Arts Camp International',
     position: 'International Counselor',
     link: 'https://bluelake.org/international/',
     daterange: 'Summer 2016',
@@ -107,14 +107,6 @@ const positions = [
     position: 'Counselor',
     link: 'https://bluelake.org/',
     daterange: 'Summer 2014',
-    points: [
-    ],
-  },
-  {
-    company: 'Cannonsburg Ski Area',
-    position: 'Ski Instructor',
-    link: 'https://cannonsburg.com/',
-    daterange: 'Winter 2012-2017',
     points: [
     ],
   },
