@@ -3,7 +3,7 @@ const data = [
   {
     title: 'forecasting energy demand for texas',
     link: 'https://kendallfrimodig.github.io/energy-demand-forecasting/',
-    image: '/images/blog/EIA.jpg',
+    image: '/images/projects/EIA.jpg',
     date: '2022-04',
     desc:
       'team Project, assessing current forecasting for '
@@ -13,7 +13,7 @@ const data = [
   {
     title: 'demystifying camping on us public land',
     link: 'https://github.com/kendallfrimodig/freedom-camping',
-    image: '/images/blog/capstone.jpg',
+    image: '/images/projects/capstone.jpg',
     date: '2022-03',
     desc:
       'Developed a novel data engineering method to distill training imagery '
@@ -24,7 +24,7 @@ const data = [
   {
     title: 'classification of political posts',
     link: 'https://github.com/kendallfrimodig/reddit-nlp-modeling',
-    image: '/images/blog/reddit.jpg',
+    image: '/images/projects/reddit.jpg',
     date: '2022-02',
     desc:
       'Scraped 200,000 posts from conservative and liberal subreddits. '
