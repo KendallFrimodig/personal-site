@@ -1,6 +1,14 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Efficient Object Detection Within Satellite Imagery Using Python',
+    link: 'https://medium.com/@kendallfrimodig/efficient-object-detection-within-satellite-imagery-using-python-85331d71ff69',
+    image: '/images/projects/capstone.jpg',
+    date: '2022-06',
+    desc:
+      'Part 1: Data Acquisition & Pre-Processing',
+  },
+  {
     title: 'Natural Language Analysis of Data Science Skills Part 2',
     link: 'https://kendallfrimodig.github.io/ngrams-data-science-jobs/',
     image: '/images/blog/ngram.png',
