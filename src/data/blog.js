@@ -9,22 +9,13 @@ const data = [
       'Part 1: Data Acquisition & Pre-Processing',
   },
   {
-    title: 'Natural Language Analysis of Data Science Skills Part 2',
+    title: 'Natural Language Analysis of Data Science Skills',
     link: 'https://kendallfrimodig.github.io/ngrams-data-science-jobs/',
     image: '/images/blog/ngram.png',
     date: '2022-04',
     desc:
-      'NLP analysis of skills sections for data science job '
+      'NLP analysis of skills sections for job '
       + 'postings, with ngram analysis ',
-  },
-  {
-    title: 'Natural Language Analysis of Data Science Skills',
-    link: 'https://kendallfrimodig.github.io/nlp-data-science-jobs/',
-    image: '/images/blog/ds.png',
-    date: '2022-04',
-    desc:
-      'NLP analysis of skills sections for data science job '
-      + 'postings, via linkedin and glassdoor ',
   },
   {
     title: 'Where to start with your first GIS modeling project',
@@ -45,16 +36,6 @@ const data = [
       'Comparison of R and Python for address parsing '
       + 'and standardization neccesary '
       + 'for successful geocoding in GIS software or APIs ',
-  },
-  {
-    title: 'Forking my Career',
-    link: 'https://kendallfrimodigblog.github.io/forking-my-career/',
-    image: '/images/blog/galogo.jpg',
-    date: '2022-01',
-    desc:
-      'first post for what will eventually be a seperate blog section '
-      + 'on this site, outlining my recent decision to enroll in  '
-      + 'General Assemblys Data Science Immersive bootcamp ',
   },
 ];
 
